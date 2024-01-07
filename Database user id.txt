@@ -1,0 +1,3 @@
+expensesTrackerdb
+
+password: Lfy9oel8A1cXJ556
